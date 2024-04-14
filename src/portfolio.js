@@ -64,24 +64,24 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
+      skillName: "c++",
+      fontAwesomeClassname: "fab fa-cuttlefish"
+    },
+    {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
+    },
+    {
+      skillName: "golang",
+      fontAwesomeClassname: "fab fa-gofore"
     },
     {
       skillName: "java",
       fontAwesomeClassname: "fab fa-java"
     },
     {
-      skillName: "c++",
-      fontAwesomeClassname: "fab fa-cplusplus"
-    },
-    {
       skillName: "c",
-      fontAwesomeClassname: "fab fa-c"
-    },
-    {
-      skillName: "golang",
-      fontAwesomeClassname: "fab fa-go"
+      fontAwesomeClassname: "fab fa-cuttlefish"
     },
     {
       skillName: "html-5",
@@ -112,13 +112,25 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-aws"
     },
     {
+      skillName: "gcp",
+      fontAwesomeClassname: "fab fa-google"
+    },
+    {
+      skillName: "digital-ocean",
+      fontAwesomeClassname: "fab fa-digital-ocean"
+    },
+    {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker"
     },
     {
-      skillName: "terraform",
-      fontAwesomeClassname: "fab fa-terraform" // Consider using a Terraform icon if available
-    }
+      skillName: "git",
+      fontAwesomeClassname: "fab fa-git"
+    },
+    {
+      skillName: "jenkins",
+      fontAwesomeClassname: "fab fa-jenkins"
+    },
   ],
 
   display: true // Set false to hide this section, defaults to true
