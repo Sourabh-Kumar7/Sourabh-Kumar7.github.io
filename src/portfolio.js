@@ -52,7 +52,7 @@ const skillsSection = {
   title: "What I do",
   subTitle: "A TECH ENTHUSIAST WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
-    emoji("⚡ Backend Development (C, C++, Java, Python, Go, Scala)"), // Lists all your backend languages
+    emoji("⚡ Backend Development (C, C++, Java, Python, Go, Kotlin)"), // Lists all your backend languages
     emoji("⚡ Algorithm Design & Optimization"), // Added this line for your algorithm skills
     emoji("⚡ Open Source Enthusiast (Reading & Contributing)"),
     emoji("⚡ Integration Specialist (AWS, GCP, DigitalOcean)"), // Kept integration skills
