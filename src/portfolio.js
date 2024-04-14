@@ -146,7 +146,7 @@ const educationInfo = {
       schoolName: "Northeastern University",
       logo: require("./assets/images/northeasternLogo.jpg"),
       subHeader: "Master of Science in Information Systems",
-      duration: "August 2023 - Present",
+      duration: "Aug 2023 - Present",
       desc: "Diving into cloud computing and advanced system design, honing expertise in cutting-edge technologies.",
       descBullets: [
         "Attained top academic standing in the inaugural semester, demonstrating commitment to excellence.",
@@ -158,7 +158,7 @@ const educationInfo = {
       schoolName: "Savitribai Phule Pune University",
       logo: require("./assets/images/sppuLogo.png"),
       subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
+      duration: "Jun 2017 - May 2021",
       desc: "Explored a comprehensive curriculum encompassing Software Engineering, Networking, Object-Oriented Programming, and Data Structures and Algorithms.",
       descBullets: [
         "Served as head of the coding cell for 2 years, guiding over 200 students in competitive programming.",
