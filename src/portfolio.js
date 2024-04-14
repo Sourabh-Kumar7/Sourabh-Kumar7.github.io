@@ -26,7 +26,7 @@ const greeting = {
     "A Tech Enthusiast | YouTuber | Software Developer  🚀 having an experience of building SaaS application with Python / Java / Go  and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1AMYOOvZ73Fl6eDGXV0sNxXT398i6RT9B/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1OizaTlDxcdLC5WrhjFxzLyuR5Lgj2WLj/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
