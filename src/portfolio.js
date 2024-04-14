@@ -56,7 +56,8 @@ const skillsSection = {
     emoji("⚡ Algorithm Design & Optimization"), // Added this line for your algorithm skills
     emoji("⚡ Open Source Enthusiast (Reading & Contributing)"),
     emoji("⚡ Integration Specialist (AWS, GCP, DigitalOcean)"), // Kept integration skills
-    emoji("⚡ Familiar with Frontend Technologies (HTML, CSS, JavaScript)") // Added frontend familiarity
+    emoji("⚡ Familiar with Frontend Technologies (HTML, CSS, JavaScript)"), // Added frontend familiarity
+    emoji("⚡ Infrastructure as Code (Terraform, Packer)") // Added IaC with Terraform and Packer
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
