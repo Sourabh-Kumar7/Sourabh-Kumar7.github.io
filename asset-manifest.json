@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.881c2a22.css",
+    "main.js": "/static/js/main.59084a8a.js",
+    "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.32c387e2.chunk.js": "/static/js/64.32c387e2.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.4d90a16c.chunk.js": "/static/js/769.4d90a16c.chunk.js",
+    "static/media/DruvaAward.png": "/static/media/DruvaAward.03cd09f15d678600eb33.png",
+    "static/media/sppuLogo.png": "/static/media/sppuLogo.3fc10bbb71797c3f3012.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/northeasternLogo.jpg": "/static/media/northeasternLogo.d85a764055e26e1f236d.jpg",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/PostmanStudentExpert.png": "/static/media/PostmanStudentExpert.d537584ebc21a55d7698.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/druvaLogo.jpg": "/static/media/druvaLogo.012364ad87ad9ae35970.jpg",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.881c2a22.css.map": "/static/css/main.881c2a22.css.map",
+    "main.59084a8a.js.map": "/static/js/main.59084a8a.js.map",
+    "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
+    "64.32c387e2.chunk.js.map": "/static/js/64.32c387e2.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
+    "769.4d90a16c.chunk.js.map": "/static/js/769.4d90a16c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.881c2a22.css",
+    "static/js/main.59084a8a.js"
+  ]
+}
