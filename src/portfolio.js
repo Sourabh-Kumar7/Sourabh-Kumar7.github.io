@@ -33,14 +33,15 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/Sourabh-Kumar7",
   linkedin: "https://www.linkedin.com/in/sourabhkumar08/",
+  github: "https://github.com/Sourabh-Kumar7",
   gmail: "sourabh7.tech@gmail.com",
-  gitlab: "https://gitlab.com/Sourabh-Kumar7",
+  // gitlab: "https://gitlab.com/Sourabh-Kumar7",
   // facebook: "https://www.facebook.com/sourabhkumar",
   medium: "https://medium.com/@sourabhkr",
-  stackoverflow: "https://stackoverflow.com/users/23549941/sourabh-kumar",
+  // stackoverflow: "https://stackoverflow.com/users/23549941/sourabh-kumar",
   youtube: "https://www.youtube.com/@PairProgramming101",
+  leetcode: "https://leetcode.com/beyourwild/",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -57,7 +58,8 @@ const skillsSection = {
     emoji("⚡ Open Source Enthusiast (Reading & Contributing)"),
     emoji("⚡ Integration Specialist (AWS, GCP, DigitalOcean)"), // Kept integration skills
     emoji("⚡ Familiar with Frontend Technologies (HTML, CSS, JavaScript)"), // Added frontend familiarity
-    emoji("⚡ Infrastructure as Code (Terraform, Packer)") // Added IaC with Terraform and Packer
+    emoji("⚡ Infrastructure as Code (Terraform, Packer)"), // Added IaC with Terraform and Packer
+    emoji("⚡ Problem Solving in different Coding platforms like CodeChef, Leetcode"), // Added IaC with Terraform and Packer
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon

@@ -68,6 +68,10 @@
   background-color: $youtube;
 }
 
+.leetcode i {
+  background-color: $leetcode;
+}
+
 .instagram i {
   background-color: $instagram;
 }
@@ -83,6 +87,7 @@
 .stack-overflow i:hover,
 .kaggle i:hover,
 .youtube i:hover,
+.leetcode i:hover,
 .medium i:hover {
   background-color: $textColor;
 }
