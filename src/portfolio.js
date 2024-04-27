@@ -26,7 +26,7 @@ const greeting = {
     "A Tech Enthusiast | YouTuber | Software Developer  🚀 having an experience of building SaaS application with Python / Java / Go  and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ORh2m80vJufYugE8Aruru08LYdcUywOY/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1XnMSfS6vUwMI2JyDusZjG1v_aeZWPQQ3/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -35,7 +35,7 @@ const greeting = {
 const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/sourabhkumar08/",
   github: "https://github.com/Sourabh-Kumar7",
-  gmail: "sourabh7.tech@gmail.com",
+  gmail: "kumar.sou@northeastern.edu",
   // gitlab: "https://gitlab.com/Sourabh-Kumar7",
   // facebook: "https://www.facebook.com/sourabhkumar",
   medium: "https://medium.com/@sourabhkr",
@@ -365,7 +365,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+1-0000000000",
-  email_address: "sourabh7.tech@gmail.com"
+  email_address: "kumar.sou@northeastern.edu"
 };
 
 // Twitter Section
