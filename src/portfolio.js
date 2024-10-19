@@ -26,7 +26,7 @@ const greeting = {
     "A Tech Enthusiast | YouTuber | Software Developer  🚀 having an experience of building SaaS application with Python / Java / Go  and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/10LTMyoEBPIJeQ9N4fRLxbrNTY8M1VlXm/view?usp=sharing", // Set to empty to hide the button
+    "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -204,12 +204,13 @@ const workExperiences = {
       date: "Aug 2021 – Jul 2023",
       desc: "",
       descBullets: [
-        "Designed and developed a microservices for backups and restorations of Microsoft Group, SharePoint, Teams data using Phalcon.",
-        "Organized 15+ sessions on Test-Driven Development (TDD), BDD, and Microservices Architecture.",
-        "Led vulnerability identification efforts using Snyk tool and rectified vulnerabilities in multiple services.",
-        "Developed a pip-installable state machine library utilized by 10+ microservices.",
-        "Successfully resolved complex customer escalations, reducing issue count to 2-3 per month within 3 months.",
-        "Reviewed and provided insights on over 50 merge requests, ensuring code quality and promoting collaboration."
+          "Worked on stateful master service for storing M365 Teams data with 20 million users and with backend of 2 millions lines of codes.",
+          "Integrated Teams service APIs with Microsoft Graph APIs, optimizing bulk data retrieval by 50% through the use of concurrency.",
+          "Enhanced application security by identifying and remediating over 20 vulnerabilities in the service Dockerfile and requirements file.",
+          "Transitioned Groups node service from stateful to stateless architecture, enabling seamless scaling and 3x faster backups.",
+          "Created a stateless state machine service using the state design pattern, which streamline backup processes by 20%.",
+          "Mentored team members by conducting 15+ training sessions on TDD, microservice & Git, fostering a culture of knowledge sharing.",
+          "Ensured code quality through rigorous code reviews, resolving 30+ complex customer escalations."
       ]
     },
     {
@@ -219,8 +220,9 @@ const workExperiences = {
       date: "Apr 2021 – Jun 2021",
       desc: "",
       descBullets: [
-        "Crafted a centralized service streamlining the deployment of ad server code across test servers. This service also automates the retrieval of essential information from ad servers, effectively reducing 20% manual verification time for team members.",
-        "Explored techniques for crafting personalized automated services utilizing the Ansible Runner library in tandem with Python."
+        "Crafted centralized service automating ad server code deployment across test servers, reducing manual verification time by 20%",
+        "Authored migration scripts for a database with 1.3 million records, ensuring seamless changes while upholding complete data integrity.",
+        "Improved code reliability through comprehensive unit testing, leading to a 15% decrease in production defects"
       ]
     }
   ]
